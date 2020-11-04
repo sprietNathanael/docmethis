@@ -1,0 +1,19 @@
+{
+	"name": "docmethis",
+	"version": "0.0.1",
+	"description": "Adventurous domenting project",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sprietNathanael/docmethis.git"
+	},
+	"author": "Nathanaël Spriet",
+	"license": "SEE LICENSE IN LICENSE",
+	"bugs": {
+		"url": "https://github.com/sprietNathanael/docmethis/issues"
+	},
+	"homepage": "https://github.com/sprietNathanael/docmethis#readme"
+}
