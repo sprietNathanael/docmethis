@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "parser"
+		},
+		{
+			"path": "client"
+		}
+	],
+	"settings": {
+		"i18n-ally.localesPaths": "../client/public/locales",
+		"cSpell.enabled": false
+	}
+}

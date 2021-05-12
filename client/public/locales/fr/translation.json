@@ -1,0 +1,15 @@
+{
+	"routes": {
+		"params": {
+			"defaultValue": "Valeurs par défaut",
+			"description": "Description",
+			"name": "Nom",
+			"possibleValues": "Valeurs possibles",
+			"type": "Type"
+		}
+	},
+	"sidebar": {
+		"dashboard": "Accueil",
+		"restRoutes": "Routes REST"
+	}
+}

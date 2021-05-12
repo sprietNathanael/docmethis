@@ -12,6 +12,10 @@ class PythonParser extends AbstractFileParser {
 	lineIsCommentEnd(line) {
 		return line.match(new RegExp('.*\\"\\"\\".*'));
 	}
+
+	parseCommentLine(line) {
+		return line.replace(new RegExp('^( |\t)*'), '');
+	}
 }
 
 module.exports = PythonParser;
